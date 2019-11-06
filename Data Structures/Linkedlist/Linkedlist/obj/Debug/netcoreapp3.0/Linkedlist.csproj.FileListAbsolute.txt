@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\HLA\Data Structures\Linkedlist\Linkedlist\bin\Debug\netcoreapp3.0\Linkedlist.exe
+C:\Users\DELL\Desktop\HLA\Data Structures\Linkedlist\Linkedlist\bin\Debug\netcoreapp3.0\Linkedlist.deps.json
+C:\Users\DELL\Desktop\HLA\Data Structures\Linkedlist\Linkedlist\bin\Debug\netcoreapp3.0\Linkedlist.runtimeconfig.json
+C:\Users\DELL\Desktop\HLA\Data Structures\Linkedlist\Linkedlist\bin\Debug\netcoreapp3.0\Linkedlist.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\HLA\Data Structures\Linkedlist\Linkedlist\bin\Debug\netcoreapp3.0\Linkedlist.dll
+C:\Users\DELL\Desktop\HLA\Data Structures\Linkedlist\Linkedlist\bin\Debug\netcoreapp3.0\Linkedlist.pdb
+C:\Users\DELL\Desktop\HLA\Data Structures\Linkedlist\Linkedlist\obj\Debug\netcoreapp3.0\Linkedlist.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\HLA\Data Structures\Linkedlist\Linkedlist\obj\Debug\netcoreapp3.0\Linkedlist.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\HLA\Data Structures\Linkedlist\Linkedlist\obj\Debug\netcoreapp3.0\Linkedlist.AssemblyInfo.cs
+C:\Users\DELL\Desktop\HLA\Data Structures\Linkedlist\Linkedlist\obj\Debug\netcoreapp3.0\Linkedlist.dll
+C:\Users\DELL\Desktop\HLA\Data Structures\Linkedlist\Linkedlist\obj\Debug\netcoreapp3.0\Linkedlist.pdb

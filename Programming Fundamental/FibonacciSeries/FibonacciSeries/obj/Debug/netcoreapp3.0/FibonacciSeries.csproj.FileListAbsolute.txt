@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\HLA\Programming Fundamental\FibonacciSeries\FibonacciSeries\bin\Debug\netcoreapp3.0\FibonacciSeries.exe
+C:\Users\DELL\Desktop\HLA\Programming Fundamental\FibonacciSeries\FibonacciSeries\bin\Debug\netcoreapp3.0\FibonacciSeries.deps.json
+C:\Users\DELL\Desktop\HLA\Programming Fundamental\FibonacciSeries\FibonacciSeries\bin\Debug\netcoreapp3.0\FibonacciSeries.runtimeconfig.json
+C:\Users\DELL\Desktop\HLA\Programming Fundamental\FibonacciSeries\FibonacciSeries\bin\Debug\netcoreapp3.0\FibonacciSeries.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\HLA\Programming Fundamental\FibonacciSeries\FibonacciSeries\bin\Debug\netcoreapp3.0\FibonacciSeries.dll
+C:\Users\DELL\Desktop\HLA\Programming Fundamental\FibonacciSeries\FibonacciSeries\bin\Debug\netcoreapp3.0\FibonacciSeries.pdb
+C:\Users\DELL\Desktop\HLA\Programming Fundamental\FibonacciSeries\FibonacciSeries\obj\Debug\netcoreapp3.0\FibonacciSeries.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\HLA\Programming Fundamental\FibonacciSeries\FibonacciSeries\obj\Debug\netcoreapp3.0\FibonacciSeries.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\HLA\Programming Fundamental\FibonacciSeries\FibonacciSeries\obj\Debug\netcoreapp3.0\FibonacciSeries.AssemblyInfo.cs
+C:\Users\DELL\Desktop\HLA\Programming Fundamental\FibonacciSeries\FibonacciSeries\obj\Debug\netcoreapp3.0\FibonacciSeries.dll
+C:\Users\DELL\Desktop\HLA\Programming Fundamental\FibonacciSeries\FibonacciSeries\obj\Debug\netcoreapp3.0\FibonacciSeries.pdb

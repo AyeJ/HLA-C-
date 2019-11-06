@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\HLA\Quiz\Quiz\Quiz\obj\Debug\netcoreapp3.0\Quiz.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\HLA\Quiz\Quiz\Quiz\obj\Debug\netcoreapp3.0\Quiz.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\HLA\Quiz\Quiz\Quiz\obj\Debug\netcoreapp3.0\Quiz.AssemblyInfo.cs
+C:\Users\DELL\Desktop\HLA\Quiz\Quiz\Quiz\bin\Debug\netcoreapp3.0\Quiz.exe
+C:\Users\DELL\Desktop\HLA\Quiz\Quiz\Quiz\bin\Debug\netcoreapp3.0\Quiz.deps.json
+C:\Users\DELL\Desktop\HLA\Quiz\Quiz\Quiz\bin\Debug\netcoreapp3.0\Quiz.runtimeconfig.json
+C:\Users\DELL\Desktop\HLA\Quiz\Quiz\Quiz\bin\Debug\netcoreapp3.0\Quiz.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\HLA\Quiz\Quiz\Quiz\bin\Debug\netcoreapp3.0\Quiz.dll
+C:\Users\DELL\Desktop\HLA\Quiz\Quiz\Quiz\bin\Debug\netcoreapp3.0\Quiz.pdb
+C:\Users\DELL\Desktop\HLA\Quiz\Quiz\Quiz\obj\Debug\netcoreapp3.0\Quiz.dll
+C:\Users\DELL\Desktop\HLA\Quiz\Quiz\Quiz\obj\Debug\netcoreapp3.0\Quiz.pdb
